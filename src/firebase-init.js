@@ -3,12 +3,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDwYfAmt6c5SMj47wspdYMzcnv4xUSZhpc",
-  authDomain: "whatsapp-clone-84b27.firebaseapp.com",
-  projectId: "whatsapp-clone-84b27",
-  storageBucket: "whatsapp-clone-84b27.appspot.com",
-  messagingSenderId: "110265170510",
-  appId: "1:110265170510:web:bcd3e1317ef3fadf7ea11f"
+  apiKey: "AIzaSyCO5yfJQ1iFhRV7t7BAZBNYald903PNK4o",
+  authDomain: "capybara-friends.firebaseapp.com",
+  projectId: "capybara-friends",
+  storageBucket: "capybara-friends.appspot.com",
+  messagingSenderId: "330574833621",
+  appId: "1:330574833621:web:e1e3ca3a1869b50ea5ff5c"
 };
 
 // Initialize Firebase
